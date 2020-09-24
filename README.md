@@ -27,10 +27,7 @@ Kamu bisa melihat **"Cara Hosting Bot Discord di Glitch"** di Youtube atau Googl
 ## Support 
 * Discord Users :
 * [**Faris0520#9850**](https://dsc.bio/faris0520)
-* [**Faris Daffa#3440**](https://dsc.bio/faris0520)
+* [**Faris Daffa#3440**](https://dsc.bio/farisdaffa)
 - Whatsapp :
 * [**+6285212736986**](https://wa.me/085212736986)
 
-## Thanks For
-* `Slav Boi#9206` sudah membantu saya membuat bot ini :)
-* `.MiNecronXD#1699` sdh mengsupport
