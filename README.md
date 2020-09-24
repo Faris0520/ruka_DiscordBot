@@ -31,4 +31,6 @@ Kamu bisa melihat **"Cara Hosting Bot Discord di Glitch"** di Youtube atau Googl
 - Whatsapp :
 * [**+6285212736986**](https://wa.me/085212736986)
 
-
+## Thanks For
+* `Slav Boi#9206` sudah membantu saya membuat bot ini :)
+* `.MiNecronXD#1699` sdh mengsupport
