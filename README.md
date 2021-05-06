@@ -1,15 +1,14 @@
 # Ruka-DiscordBot
-[![Stars](https://img.shields.io/github/stars/Faris0520/ruka_DiscordBot.svg)](https://github.com/Faris0520/ruka_DiscordBot/stargazers)
-[![Discord](https://discordapp.com/api/guilds/717533401107791933/widget.png)](https://discord.gg/YwV78PM)<br>
 
-## Peringatan!
+## PERINGATAN!
   * Bot ini masih menggunakan discord.js v11. 
   * Saya sarankan agar tidak meng-fork repo ini 🙏
-  * INFO : Discord.js v11 sdh tidak dpt update dari Discord
+  * Kalo mau ambil commandnya, silahkan 🙏
+  * 
 
 Bot Discord lintas platform dengan antarmuka yang bersih, dan itu mudah diatur dan dijalankan sendiri!
 
-_**Made in Indonesia!**_
+_**Indonesia**_
 
 [![Setup](http://i.imgur.com/VvXYp5j.png)](https://github.com/Faris0520/ruka_DiscordBot/wiki)
 
@@ -30,6 +29,5 @@ Untuk masalah hosting, kami rekomendasikan untuk menggunakan [**Glitch**](https:
 Kamu bisa melihat **"Cara Hosting Bot Discord di Glitch"** di Youtube atau Google
 
 ## Support 
-* Discord Users :
-* [**Faris0520#9850**](https://dsc.bio/faris0520) | Offline
-* [**Faris Daffa#0520**](https://dsc.bio/farisdaffa)
+* Discord :
+* [**Faris Daffa#0001**](https://dsc.bio/farisdaffa)
