@@ -1,4 +1,4 @@
-# Ruka-DiscordBot
+# Ruka-DiscordBot ( NO LONGER MAINTAINED )
 
 ## PERINGATAN!
   * Bot ini masih menggunakan discord.js v11. 
@@ -10,7 +10,9 @@
   * I advise against forking this repo 🙏.
   * If you want to take the command, go ahead 🙏.
 
-__
+**I just maintain [Soumoe](https://github.com/faris0520/soumoe) for now.**
+
+___
 
 Bot Discord lintas platform yang mudah diatur dan dijalankan sendiri!
 
@@ -36,4 +38,4 @@ Kamu bisa melihat **"Cara Hosting Bot Discord di Glitch"** di Youtube atau Googl
 
 ## Support 
 * Discord :
-* [**Faris Daffa#0001**](https://dsc.bio/farisdaffa)
+* [**Faris Daffa#0005**](https://dsc.bio/farisdaffa)
